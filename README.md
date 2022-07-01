@@ -27,7 +27,7 @@ Toy collector 🦄 , fan of Rayo Vallecano ✨  and proud father👼</p>
 
 <h3>Me encantan los gifs</h3>
 
-<div>
+<div align="center">
 
 <img alt="gif gracioso" src="https://media.giphy.com/media/Y4hGhl2Ki3uO2jWBcY/giphy.gif">
 </div>
